@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('image.png');
+    background: url('image\ copy.png');
     font-family: Bai Jamjuree;
 }
 
@@ -92,14 +92,14 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 0.6rem;
+    font-size: 1rem;
     margin-top: 0.5rem;
 }
 
 @media (max-width: 560px) {
    
     body {
-        background: url('image.png'), no-repeat cover;
+        background: url('image\ copy.png'), no-repeat cover;
     }
 
     .cartao {
